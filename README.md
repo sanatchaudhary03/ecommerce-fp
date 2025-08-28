@@ -40,24 +40,6 @@ A responsive, feature-rich e-commerce product listing application built with Nex
    cd ecommerce-fp
    \`\`\`
 
-2. **Install dependencies**
-   \`\`\`bash
-   npm install
-   # or
-   yarn install
-   # or
-   pnpm install
-   \`\`\`
-
-3. **Run the development server**
-   \`\`\`bash
-   npm run dev
-   # or
-   yarn dev
-   # or
-   pnpm dev
-   \`\`\`
-
 4. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000)
 
