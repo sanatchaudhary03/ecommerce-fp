@@ -41,8 +41,7 @@ A responsive, feature-rich e-commerce product listing application built with Nex
    \`\`\`
 
 ## 🏗️ Project Structure
-
-\`\`\`
+\\\`
 ├── app/
 │   ├── layout.tsx          # Root layout with providers
 │   ├── page.tsx            # Main application page
@@ -64,7 +63,7 @@ A responsive, feature-rich e-commerce product listing application built with Nex
 │   └── validations.ts      # Zod schemas
 └── hooks/
     └── use-mobile.tsx      # Mobile detection hook
-\`\`\`
+\\\`
 
 ## 🎨 Design System
 
@@ -156,5 +155,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Vercel](https://vercel.com/) for seamless deployment
 
 ---
-
-**Built with ❤️ using modern web technologies**
