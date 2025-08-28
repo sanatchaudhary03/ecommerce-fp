@@ -85,6 +85,7 @@ A responsive, feature-rich e-commerce product listing application built with Nex
 │   └── validations.ts      # Zod schemas
 └── hooks/
     └── use-mobile.tsx      # Mobile detection hook
+    
 \`\`\`
 
 ## 🎨 Design System
