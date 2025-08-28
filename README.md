@@ -36,7 +36,7 @@ A responsive, feature-rich e-commerce product listing application built with Nex
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/your-username/ecommerce-fp.git
+   git clone https://github.com/sanatchaudhary03/ecommerce-fp.git
    cd ecommerce-fp
    \`\`\`
 
