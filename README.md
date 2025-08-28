@@ -40,11 +40,6 @@ A responsive, feature-rich e-commerce product listing application built with Nex
    cd ecommerce-fp
    \`\`\`
 
-
-
-4. **Open your browser**
-   Navigate to [http://localhost:3000](http://localhost:3000)
-
 ## 🏗️ Project Structure
 
 \`\`\`
