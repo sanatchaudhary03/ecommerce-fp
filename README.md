@@ -40,31 +40,6 @@ A responsive, feature-rich e-commerce product listing application built with Nex
    cd ecommerce-fp
    \`\`\`
 
-## 🏗️ Project Structure
-\\\`
-├── app/
-│   ├── layout.tsx          # Root layout with providers
-│   ├── page.tsx            # Main application page
-│   └── globals.css         # Global styles and design tokens
-├── components/
-│   ├── ui/                 # shadcn/ui components
-│   ├── add-product-form.tsx    # Product creation form
-│   ├── header.tsx              # Navigation header
-│   ├── product-card.tsx        # Individual product display
-│   ├── product-details-modal.tsx  # Product detail view
-│   ├── product-grid.tsx        # Products grid layout
-│   ├── search-and-filter.tsx   # Search and filter controls
-│   └── shopping-cart.tsx       # Cart management
-├── lib/
-│   ├── api.ts              # API functions
-│   ├── react-query-provider.tsx  # React Query setup
-│   ├── store.ts            # Zustand store configuration
-│   ├── utils.ts            # Utility functions
-│   └── validations.ts      # Zod schemas
-└── hooks/
-    └── use-mobile.tsx      # Mobile detection hook
-\\\`
-
 ## 🎨 Design System
 
 ### Color Palette
@@ -155,3 +130,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Vercel](https://vercel.com/) for seamless deployment
 
 ---
+
+
+- Live Demo Link - (https://frontendassignment09.vercel.app/)
